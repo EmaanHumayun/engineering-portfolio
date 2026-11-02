@@ -106,7 +106,7 @@ All codebases within this portfolio follow strict engineering guidelines:
 ## Professional Coordinates
 
 - **Engineer:** Emaan Humayun
-- **Specialization:** Software Engineer | Backend & Full-Stack | DevOps & Automation
+- **Specialization:** Software Engineer | DevOps Engineer
 - **Email:** [emaanhumayun23072@gmail.com](mailto:emaanhumayun23072@gmail.com)
 - **LinkedIn:** [linkedin.com/in/emaanmuhammadhumayun](https://www.linkedin.com/in/emaanmuhammadhumayun)
 - **GitHub:** [@EmaanHumayun](https://github.com/EmaanHumayun)
