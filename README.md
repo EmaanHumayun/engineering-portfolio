@@ -20,8 +20,10 @@ flowchart TD
     D2["Systems Architecture & Case Studies<br/>devops-assignments-challenges"]
     D3["Full-Stack & Cloud-Native<br/>fullstack-cloud-native-app"]
     D4["Frontend & Core JavaScript<br/>50-javascript-projects"]
-    D5["Automation & Integrations<br/>automation-engineering"]
-    D6["Data, BI & Analytics<br/>data-analytics-portfolio"]
+    D5["Backend Architecture & Systems<br/>backend-engineering-hub"]
+    D6["Automation & Integration Engineering<br/>automation-integration-hub"]
+    D7["DevOps Bootcamp & Practice<br/>devops-engineering-bootcamp & devops-practice-labs"]
+    D8["Full-Stack Applications<br/>fullstack-applications & fullstack-cloud-native-app"]
 
     HUB --> D1
     HUB --> D2
@@ -29,6 +31,8 @@ flowchart TD
     HUB --> D4
     HUB --> D5
     HUB --> D6
+    HUB --> D7
+    HUB --> D8
 ```
 
 ---
